@@ -1,0 +1,17 @@
+# build artifacts
+tests/*.exe
+*.o
+*.elf
+*.bin
+
+# python
+__pycache__/
+*.pyc
+
+# editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# duplicate of documentation/ copy, still open in another program
+/Solar Panel Health and Dust Monitoring - Project Summary (Overview).docx
